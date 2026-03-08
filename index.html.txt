@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta property="og:title" content="Thiệp Mời Cưới Tiến Hải & Hà Trang">
-<meta property="og:description" content="Trân trọng kính mời bạn tới tham dự lễ cưới của chúng tôi">
+
+<title>Thiệp cưới</title>
+
+<meta property="og:title" content="Thiệp cưới">
+<meta property="og:description" content="Trân trọng kính mời bạn tham dự lễ cưới">
 <meta property="og:image" content="https://drive.google.com/drive/folders/1nB7EKYYsC2D50reZJ17-cxAfiovA1m9H">
-<meta property="og:url" content="https://nht-nth.my.canva.site/thiep-moi-cuoi-tien-hai-va-ha-trang">
-<meta http-equiv="refresh" content="0; url=LINK_CANVA">
+<meta property="og:url" content="https://trang678.github.io/wedding/">
+<meta property="og:type" content="website">
+
+<script>
+window.location.href = "https://nht-nth.my.canva.site/thiep-moi-cuoi-tien-hai-va-ha-trang";
+</script>
+
 </head>
-<body></body>
+
+<body>
+Đang mở thiệp cưới...
+</body>
 </html>
